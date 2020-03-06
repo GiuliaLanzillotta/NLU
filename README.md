@@ -9,9 +9,9 @@ From the notebook:
 > ### But what is our goal? 
 > *Ideally* we would like to represent **semantically related words close together** in the vector space, <br>
 and semantically unrelated words should end up far apart
-### Implemented
+### What you currently find in the notebook: 
 1. Distance metrics
-### Up next in this section: 
+### Up next: 
 1. Re-weighting schemes
 2. Subword information
 3. Dimensionality Reduction
